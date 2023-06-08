@@ -1,0 +1,32 @@
+{
+    "cookie": {
+        "CONSENT": "PENDING+530",
+        "HSID": "AjhnJkaLR9soSw-sD",
+        "SSID": "A71FA75S-pUqi9_Oh",
+        "APISID": "fPYZdeZXSHDkGkwP/AyRfI_Gweu1hARCI-",
+        "SAPISID": "x6G4r9w9EhMZN66o/AcGJvafcpGRegjxEu",
+        "__Secure-1PAPISID": "x6G4r9w9EhMZN66o/AcGJvafcpGRegjxEu",
+        "__Secure-3PAPISID": "x6G4r9w9EhMZN66o/AcGJvafcpGRegjxEu",
+        "LOGIN_INFO": "AFmmF2swRQIgbVI2tT8Bfb3rQmP7fiKub71S6mcHzsSC6MLDAsQt9IcCIQCa4_HIAyPwBl22blo4s1cq-9kwvNld0c7aRcZkAYzUOg:QUQ3MjNmeWRGLWZSZmFfd010ME9MNDBVSU1FbGJVanB6ZVE1X1VvUTYxbjlBTDZsbUZsV3lkdUxjR3VnbXZGWnJWWW9UTXJxZjVDOEFDS3dJYW5RSFNVb0FWcUs3R09jMnpQVEp2Z3k0c0lrNERGeW1xY1B0dURDZ3lMT3FNblQxVzAzRzU5LVpxMEVyVk1ES3JBQWdaVzlWVDRRYlhWbkpB",
+        "YSC": "Z2kHjv6bvxk",
+        "wide": "1",
+        "__Secure-YEC": "CgtfVDQxNDBUekVRMCjt2ZmgBg%3D%3D",
+        "VISITOR_INFO1_LIVE": "Vesk_-pDYdQ",
+        "PREF": "tz=Europe.Rome&f6=40000400&f7=100&f5=30000",
+        "SID": "XQjf44OaVdflUQeuCGYtoqgBGEzpr-x7mNymcWQDpdCsy-429vH1X8uzUpGokkdosM_puQ.",
+        "__Secure-1PSID": "XQjf44OaVdflUQeuCGYtoqgBGEzpr-x7mNymcWQDpdCsy-42AC2jkJVoT0KaC4m2K1E47g.",
+        "__Secure-3PSID": "XQjf44OaVdflUQeuCGYtoqgBGEzpr-x7mNymcWQDpdCsy-428POk0BDKMkARFidYArRBiw.",
+        "SIDCC": "AP8dLtzjaWXcENXUJT1fcG2lt7izp2UkNT-aWXggGpP4timNHfxyp0BtV5yA4i4TcrrYXSdKEMc",
+        "__Secure-1PSIDCC": "AP8dLtyBtAoMO4ajPy5g6mxJiFpfrrPo5qM22u6GbOG8s8taa-8-CACm5zMCcUtWVyBSnF1JO1A",
+        "__Secure-3PSIDCC": "AP8dLtzgcnMzYjgLl4TWocw0A_PGa9buV18rKfDVKIzxxNuZUPTRjLVSeynym9601y_wSDDbSuOF",
+        "expires": "Tue, 04-Jun-2024 22:58:56 GMT",
+        "path": "/",
+        "domain": ".youtube.com",
+        "priority": "high",
+        "SameSite": "none",
+        "Domain": ".youtube.com",
+        "Expires": "Sat, 02-Dec-2023 22:57:28 GMT",
+        "Path": "/"
+    },
+    "file": true
+}
